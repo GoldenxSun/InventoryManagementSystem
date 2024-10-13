@@ -1,0 +1,7 @@
+tkinter
+sqlite3
+qrcode
+csv
+shutil
+datetime
+openpyxl
